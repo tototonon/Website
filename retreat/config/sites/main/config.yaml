@@ -1,0 +1,26 @@
+base: 'http://localhost/'
+languages:
+  -
+    title: English
+    enabled: true
+    languageId: 0
+    base: /en/
+    locale: en_US.UTF-8
+    navigationTitle: English
+    flag: us
+    hreflang: ''
+    websiteTitle: ''
+  -
+    title: Deutsch
+    enabled: true
+    locale: de-DE.UTF-8
+    hreflang: de-DE
+    base: /
+    websiteTitle: Ibogaretreat
+    navigationTitle: Deutsch
+    fallbackType: strict
+    fallbacks: ''
+    flag: de
+    languageId: 1
+rootPageId: 1
+websiteTitle: ''
